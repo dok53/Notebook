@@ -1,5 +1,5 @@
 /**
- * 
+ * Test class
  */
 package my.notebook;
 

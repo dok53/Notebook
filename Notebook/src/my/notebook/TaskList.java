@@ -97,7 +97,7 @@ public class TaskList
 	
 	public String toString()
 	{
-		return "" + name;
+		return "" + name; 
 	}
 	
 }

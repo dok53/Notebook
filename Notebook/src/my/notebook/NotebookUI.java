@@ -1,3 +1,10 @@
+/**
+ * Class to handle the GUI and all action listners to perform tasks
+ * @author Derek O Keeffe
+ * @version 1.5
+ * @from 01/11/12
+ */
+
 package my.notebook;
 
 
